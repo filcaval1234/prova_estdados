@@ -1,0 +1,16 @@
+i) Parâmetros formais são aqueles são definidos junto a criação da função e tem "vida" somente emquanto a função esta sendo executada
+ou seja, representa uma variavel local a função. Parâmetros reais são valores reais à execução do código, ou seja, quando é exucutado determinada função no programa somos obrigados
+a passar valores ou referências reais do codigo executado à função.
+
+ii) Entende-se Passagem por valor como a cópia do valor da variável, por consequência, ao final de execução da função a variável
+que foi passada como parâmetro não tem seu valor alterado diferentimente de passagem por referência, onde, é passado a posição
+de memória da variável, ou seja, ao final da execução de determinda função se foi feita alguma alteração na variável passada
+por referência essa alteração refletira em todo o código.
+
+iii) x, y e '+' são parâmetros reais e n1, n2, op são os parâmetros formais.
+
+(1) x = 50 e y = 10.
+
+(2) x = 60 e y = 10.
+
+(3) x = 60 e y = 70.
